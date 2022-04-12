@@ -3,7 +3,7 @@ body{
     height:800px;
     background-image: url("background.jpg");
     background-size: 1500px 2600px;
-    background-position: bottom -850px right 0px;
+    background-position: bottom -875px right 0px;
     /*background-position: bottom -650px right 0px;*/
     overflow-x: hidden; 
     overflow-y: hidden;
@@ -14,17 +14,17 @@ h1{
     color: white;
     font-family: la-bohemienne, sans-serif;
     font-style: normal;
-    font-weight:600;
+    font-weight: 600;
     font-size: 130px;
     position: absolute;
     left: 500px;
-    top: 45px;
+    top: 70px;
 }
 
 ul{
     position: absolute;
     left: 450px;
-    top: 320px;
+    top: 350px;
 }
 
 li{
