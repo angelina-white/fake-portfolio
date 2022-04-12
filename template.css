@@ -1,0 +1,36 @@
+.menu{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #B9BDCD;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    padding-bottom: 5px;
+    width: 1800px;
+    margin-left: -50px;
+}
+
+ul{
+    margin-left: 30px;
+    margin-right: 30px;
+    vertical-align: center;
+}
+
+li{
+    display: inline;
+    font-family: baskerville-urw, serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 50px;
+    color: #838DB1;
+    font-size: 20px;
+}
+
+#header{
+    font-family: baskerville-urw, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    padding-right: 720px;
+    color: #977289;
+}
