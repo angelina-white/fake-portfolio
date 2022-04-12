@@ -19,21 +19,13 @@ ul{
 li{
     display: inline;
 }
-    /*
-    font-family: baskerville-urw, serif;
-    font-weight: 400;
-    font-style: normal;
-    padding-right: 50px;
-    color: #838DB1;
-    font-size: 20px;
-}*/
 
 #header{
     font-family: baskerville-urw, serif;
     font-weight: 400;
     font-style: normal;
     font-size: 35px;
-    padding-right: 720px;
+    padding-right: 675px;
     color: #977289;
 }
 

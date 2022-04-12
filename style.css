@@ -28,17 +28,8 @@ ul{
 }
 
 li{
-    color: white;
     display: inline;
-    font-family: baskerville-urw, serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 25px;
     padding-left: 80px;
-}
-
-#home{
-    text-decoration: underline;
 }
 
 button{
@@ -48,7 +39,11 @@ button{
     font-family: baskerville-urw, serif;
     font-weight: 400;
     font-style: normal;
-    padding-right: 50px;
     font-size: 20px;
+    color:white;
+}
+
+.underline{
+    text-decoration:underline;
     color:white;
 }
