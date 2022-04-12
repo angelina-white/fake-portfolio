@@ -8,5 +8,15 @@ body{
     overflow-x: hidden; 
     overflow-y: hidden;
     background-repeat: no-repeat;
+}
 
+h1{
+    color: white;
+    font-family: la-bohemienne, sans-serif;
+    font-style: normal;
+    font-weight:600;
+    font-size: 130px;
+    position: absolute;
+    left: 500px;
+    top: 45px;
 }
