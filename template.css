@@ -18,13 +18,15 @@ ul{
 
 li{
     display: inline;
+}
+    /*
     font-family: baskerville-urw, serif;
     font-weight: 400;
     font-style: normal;
     padding-right: 50px;
     color: #838DB1;
     font-size: 20px;
-}
+}*/
 
 #header{
     font-family: baskerville-urw, serif;
@@ -37,4 +39,17 @@ li{
 
 .underline{
     text-decoration: underline;
+    color: #838DB1;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+    display: inline;
+    font-family: baskerville-urw, serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 50px;
+    color: #838DB1;
+    font-size: 20px;
 }
