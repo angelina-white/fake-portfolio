@@ -7,7 +7,7 @@ body{
 .menu{
     border-style: solid;
     border-width: 2px;
-    border-color: #B9BDCD;
+    border-color: #C2C3C6;
     border-top-style: none;
     border-right-style: none;
     border-left-style: none;
@@ -42,7 +42,7 @@ button{
     background-color: transparent;
     display: inline;
     padding-right: 50px;
-    color: #838DB1;
+    color: #60686e;
     font-size: 20px;
 }
 
@@ -78,4 +78,8 @@ img{
 
 #goback{
     margin-top: 50px;
+}
+
+a{
+    color: #713B55;
 }
