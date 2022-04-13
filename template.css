@@ -106,11 +106,29 @@ img{
     margin-top: 150px;
 }
 
-h3{
+#dcloc{
     color: #60686e;
     font-size: 75px;
     text-align: left;
     margin-bottom: -75px;
+}
+
+.messagebox{
+    background-color: #EADFDF;
+    height: 600px;
+    margin-top: -4px;
+}
+
+.message{
+    color: #60686e;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 125px;
+}
+
+#messagetext{
+    font-size: 50px;
+    margin-bottom: 100px;
 }
 
 #goback{
