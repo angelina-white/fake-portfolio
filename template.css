@@ -82,13 +82,13 @@ img{
   display: table;
 }
 
-/*contact image*/
+/*contact images*/
 .column2 {
     float: left;
-    width: 66.66%;
+    width: 33.33%;
   }
   
-  /*contact image*/
+  /*contact iamges*/
   .row2::after {
     content: "";
     clear: both;
@@ -96,11 +96,22 @@ img{
   }
 
     /*contact image*/
-  .column2 img{
-      width: 875px;
-      margin-top: 183px;
-      margin-left: -500px;
-  }
+.column2 img{
+      width: 850px;
+      margin-top: 83px;
+}
+
+.location {
+    margin-left: 475px;
+    margin-top: 150px;
+}
+
+h3{
+    color: #60686e;
+    font-size: 75px;
+    text-align: left;
+    margin-bottom: -75px;
+}
 
 #goback{
     margin-top: 50px;
